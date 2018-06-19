@@ -2,6 +2,8 @@ def first_steps
 
 puts "Right foot back"
 sleep(0.5)
+puts "Left foot back"
+
 
 
   # Write a loop that outputs "Right foot back", "Left foot back",
